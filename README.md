@@ -21,35 +21,35 @@ To start, we’ll download VirtualBox from the official website at https://www.v
 
 
 1. <p align="center">
-   <img src="https://i.imgur.com/AqLqP6W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   <img src="https://i.imgur.com/AqLqP6W.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
    <br />
    <br />
 
 Next, we’ll download Windows Server 2022 from the official Microsoft Evaluation Center at https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022.
 
 2. <p align="center">
-   <img src="https://i.imgur.com/eY4Dajh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   <img src="https://i.imgur.com/eY4Dajh.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
    <br />
    <br />
 
 To access the free trial, you’ll need to provide your information during the registration process. The trial period lasts for 180 days.
 
 3. <p align="center">
-   <img src="https://i.imgur.com/K58G1Zo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   <img src="https://i.imgur.com/K58G1Zo.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
    <br />
    <br />
 
 After filling our information, we can finally download the ISO which will be the 64-bit edition (English). 
 
 4. <p align="center">
-   <img src="https://i.imgur.com/9x6LZ39.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   <img src="https://i.imgur.com/9x6LZ39.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
    <br />
    <br />
 
 Finally our ISO download should appear in our downloads folder. 
 
 5. <p align="center">
-   <img src="https://i.imgur.com/30c16bl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   <img src="https://i.imgur.com/30c16bl.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
    <br />
    <br />
 
