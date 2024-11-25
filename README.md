@@ -110,59 +110,59 @@ For the “Hard disk” configurations everything should be good, just make sure
 Now, we’ll boot up the virtual machine by clicking the "Start" button. A prompt for the Microsoft Server Operating System Setup will appear. Click "Next," then select "Install Now" to begin the installation process.
 
 14. <p align="center">
-    <img src="https://i.imgur.com/S6UqGhP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <img src="https://i.imgur.com/lxojjhr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <br />
     <br />
 
 
 15. <p align="center">
-    <img src="https://i.imgur.com/BVNQbcT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <img src="https://i.imgur.com/G4obXiC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <br />
     <br />
 
 In the operating system selection screen, choose "Windows Server 2022 Standard Evaluation (Desktop Experience)," then click "Next" to continue.
 
 16. <p align="center">
-    <img src="https://i.imgur.com/lxojjhr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <img src="https://i.imgur.com/dKzoj75.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <br />
     <br />
 
 Accept the terms and click "Next." In the next step, when prompted to choose the type of installation, select "Custom" to proceed.
 
 17. <p align="center">
-    <img src="https://i.imgur.com/G4obXiC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <img src="https://i.imgur.com/jtsl1SH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <br />
     <br />
 
 
 18. <p align="center">
-    <img src="https://i.imgur.com/dKzoj75.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <img src="https://i.imgur.com/U8758Tl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <br />
     <br />
 
 Click "Next," and the installation of Windows Server will begin.
 
 19. <p align="center">
-    <img src="https://i.imgur.com/jtsl1SH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <img src="https://i.imgur.com/cTvNebb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <br />
     <br />
 
 20. <p align="center">
-    <img src="https://i.imgur.com/U8758Tl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <img src="https://i.imgur.com/JOB6AEb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <br />
     <br />
 
 Create a password for our account “Administrator”.
 
 21. <p align="center">
-    <img src="https://i.imgur.com/S6UqGhP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <img src="https://i.imgur.com/BVNQbcT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <br />
     <br />
 
 Click on "Input" and select "Insert Ctrl + Alt + Del" to bring up the login screen. After entering your password, you can log into your Windows Server 2022 account as the administrator.
 
 22. <p align="center">
-    <img src="https://i.imgur.com/JOB6AEb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <img src="https://i.imgur.com/S6UqGhP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <br />
     <br />
 
